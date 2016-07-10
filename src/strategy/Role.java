@@ -1,6 +1,8 @@
 package strategy;
 
 // 角色
+// 实现样子类型、攻击技能、防御技能自由替换
+// 这样也就实现了代码的复用
 public class Role {
 
 	// 角色名
